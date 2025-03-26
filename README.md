@@ -1,7 +1,7 @@
 # Flappy Bird Game
  But using Neural Network to learn how to win.
 
-[![IMAGE ALT TEXT HERE](https://github.com/ZeveNor/flappy-bird/blob/main/image/img.png?raw=true)](https://github.com/ZeveNor/flappy-bird/blob/main/image/img.png?raw=true)
+[![IMAGE ALT TEXT HERE](https://github.com/ZeveNor/flappy-bird/blob/main/image/img1.png?raw=true)](https://github.com/ZeveNor/flappy-bird/blob/main/image/img1.png?raw=true)
 
 ### Watch model learning from start.
 https://www.youtube.com/watch?v=lWMgV1qD3y8
